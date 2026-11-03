@@ -155,7 +155,7 @@ Activez le **Mode développeur** dans les paramètres Discord, puis utilisez **C
 
 ### 3. Créer la clé API WISP
 
-Connectez-vous sur votre panel HebergTonServ, ouvrez les paramètres de votre compte et la rubrique de création de clés API Client (son libellé peut varier). Créez une clé autorisée à accéder aux serveurs et fonctionnalités que le bot doit contrôler.
+Connectez-vous sur votre panel HebergTonServ, ouvrez les paramètres de votre compte et la rubrique de création de clés API Client (peut varier). Créez une clé autorisée à accéder aux serveurs et fonctionnalités que le bot doit contrôler.
 
 **Ne publiez jamais votre `WISP_API_TOKEN`.**
 
@@ -288,8 +288,7 @@ WispBots/
 ├── assets/
 │   └── dashboard.png
 ├── config/
-│   ├── private.example.json
-│   └── private.json              (local, non versionné)
+│   └── private.example.json
 ├── data/                     (SQLite généré localement)
 ├── scripts/
 │   └── deployCommands.js
