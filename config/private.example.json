@@ -1,6 +1,6 @@
 {
   "bot": {
-    "name": "WISP Control",
+    "name": "HTS Control",
     "language": "fr",
     "guildOnly": true,
     "timezone": "Europe/Brussels"
@@ -14,7 +14,7 @@
     ]
   },
   "wisp": {
-    "panelUrl": "https://panel.example.com",
+    "panelUrl": "https://manage.hebergtonserv.com/",
     "servers": [
       {
         "id": "abcdefgh",
