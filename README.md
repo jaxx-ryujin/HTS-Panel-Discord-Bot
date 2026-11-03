@@ -391,6 +391,13 @@ Vérifiez les variables obligatoires dans `.env`, la syntaxe de `config/private.
 
 </details>
 
+<details>
+<summary><strong>Je n'arrive toujours pas à faire fonctionner le bot</strong></summary>
+
+Si vous n'arrivez pas à faire fonctionner le bot je vous invites à ouvrir un ticket support sur le discord officiel de [Ryujin-Dev](https://discord.gg/C6YHZV6J9p)
+
+</details>
+
 ---
 
 ## 🤝 Contribution et licence
