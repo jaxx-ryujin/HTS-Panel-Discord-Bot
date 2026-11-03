@@ -1,0 +1,48 @@
+{
+  "bot": {
+    "name": "WISP Control",
+    "language": "fr",
+    "guildOnly": true,
+    "timezone": "Europe/Brussels"
+  },
+  "discord": {
+    "dashboardChannelId": "REMPLACER_PAR_ID_SALON_DASHBOARD",
+    "logsChannelId": "REMPLACER_PAR_ID_SALON_LOGS",
+    "allowedRoleIds": [
+      "123456789012345678",
+      "987654321098765432"
+    ]
+  },
+  "wisp": {
+    "panelUrl": "https://panel.example.com",
+    "servers": [
+      {
+        "id": "abcdefgh",
+        "name": "Serveur FiveM",
+        "emoji": "🚗",
+        "enabled": true
+      },
+      {
+        "id": "ijklmnop",
+        "name": "Serveur Minecraft",
+        "emoji": "⛏️",
+        "enabled": true
+      }
+    ]
+  },
+  "dashboard": {
+    "refreshIntervalSeconds": 60,
+    "accentColor": "#5865F2",
+    "onlineColor": "#57F287",
+    "offlineColor": "#ED4245",
+    "warningColor": "#FEE75C"
+  },
+  "features": {
+    "power": true,
+    "statistics": true,
+    "console": true,
+    "backups": true,
+    "auditLogs": true,
+    "multiServer": true
+  }
+}
